@@ -1,0 +1,23 @@
+.customize-navbar{
+    background-color: #C3ACD0;
+    color: green;
+}
+.card-customize{
+   width: 10%;
+   height: 20px;
+}
+.custom-head{
+   background-color:  #C3ACD0;
+}
+.custom-search{
+   margin-right: 500px;
+}
+.custom-logo{
+    width: 150px;
+    height: 100px;
+    background-color:#C3ACD0;
+    border-radius: 30px;
+}
+.custom-btn{
+    
+}
